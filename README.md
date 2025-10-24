@@ -8,3 +8,12 @@
 ### Process Path
 [https://github.com/TheGwrench/BearFears/blob/main/Process%20path%2001.pdf)
 
+## Current steps
+Phase 1: Requirements & Safety Analysis (2-4 weeks)
+    Document Requirements
+        Use free or affordable tools like Visure Requirements ALM (offers trial) or even structured Excel/Word templates
+        Perform Hazard Analysis and Risk Assessment (HARA) to determine ASIL level based on Severity, Exposure, and Controllability
+    Target ASIL B or C maximum for single-engineer feasibility (ASIL D requires extensive organizational infrastructure)
+Safety Concept
+    Define safety goals and derive safety requirements allocated to architectural components
+        Consider ASIL decomposition to reduce requirements where possible
