@@ -1,5 +1,8 @@
 # BearFears Project
 
+## Access for AI
+https://gist.github.com/TheGwrench/f14a766cd91f44c3b39b81f8c52dec17
+
 ## Project Files
 
 ### Requirements
