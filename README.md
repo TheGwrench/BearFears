@@ -24,6 +24,8 @@ https://www.circuitlab.com/
 https://www.analog.com/en/resources/design-tools-and-calculators.html
 https://www.digikey.com/reference-designs/en
 
+powershell conversion command
+Get-ChildItem -Filter *.docx | ForEach-Object { pandoc "$($_.FullName)" -t markdown -o "$($_.BaseName).md" --wrap=none }
 
 
 Formatting:
