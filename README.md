@@ -14,6 +14,17 @@ Use concise, technical language with correct units and equations.
 Prioritize accuracy, repeatability, and clarity.
 Format all output for easy copy-paste into documentation or code comments.
 
+analog circuits
+
+Use this Analog circuit design site as your main resource: 
+https://www.ti.com/design-development/analog-circuits.html
+Other resources to use:
+https://www.analog.com/en/resources/reference-designs/circuits-from-the-lab.html
+https://www.circuitlab.com/
+https://www.analog.com/en/resources/design-tools-and-calculators.html
+https://www.digikey.com/reference-designs/en
+
+
 
 Formatting:
 # Heading 1
