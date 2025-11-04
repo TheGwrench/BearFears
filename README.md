@@ -24,8 +24,10 @@ https://www.circuitlab.com/
 https://www.analog.com/en/resources/design-tools-and-calculators.html
 https://www.digikey.com/reference-designs/en
 
-powershell conversion command
-Get-ChildItem -Filter *.docx | ForEach-Object { pandoc "$($_.FullName)" -t markdown -o "$($_.BaseName).md" --wrap=none }
+Pandoc and powershell conversion command.  make a new folder and put your stuff there, then run this in that folder.   
+doc to md: Get-ChildItem -Filter *.docx | ForEach-Object { pandoc "$($_.FullName)" -t markdown -o "$($_.BaseName).md" --wrap=none }
+MD to doc: Get-ChildItem -Filter *.md | ForEach-Object { pandoc "$($_.FullName)" -o "$($_.BaseName).docx" }
+
 
 
 Formatting:
